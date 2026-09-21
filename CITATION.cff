@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows."
+title: "Explainable Brain Tumour Classification from MRI"
+type: software
+authors:
+  - family-names: "Siam"
+    given-names: "Abdur Rahman"
+    orcid: "https://orcid.org/0009-0002-5904-9477"
+repository-code: "https://github.com/siamabdurrahman/explainable-brain-tumour-mri"
+version: "1.0"
+date-released: 2026-09-21
+keywords:
+  - brain tumour
+  - MRI
+  - convolutional neural network
+  - MobileNetV2
+  - transfer learning
+  - Grad-CAM
+  - explainable AI

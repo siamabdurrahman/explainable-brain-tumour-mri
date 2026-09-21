@@ -1,0 +1,27 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Datasets and archives
+archive.zip
+data/
+dataset/
+Dataset/
+*.7z
+*.tar
+*.tar.gz
+
+# Trained models and experiment logs
+*.h5
+*.keras
+*.ckpt
+checkpoints/
+logs/
+
+# Local configuration and operating-system files
+.env
+.DS_Store
+Thumbs.db
